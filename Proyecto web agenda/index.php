@@ -29,7 +29,7 @@ require_once('conexion.php');
       <nav>
   <div class="toggle"><i class="fas fa-bars menu"></i></div>
   <ul>
-    <li><a href="#">Inicio</a></li>
+    <li><a href="#">Home</a></li>
     <li><a href="subsitios/agenda/mostrar_agenda.php">Agenda</a></li>
     <li><a href="subsitios/agenda/nueva_actividad.php">Agregar Actividad</a></li>
   </ul>
