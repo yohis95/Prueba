@@ -31,7 +31,7 @@ require_once('conexion.php');
   <ul>
     <li><a href="#">Home</a></li>
     <li><a href="subsitios/agenda/mostrar_agenda.php">Agenda</a></li>
-    <li><a href="subsitios/agenda/nueva_actividad.php">Agregar Actividad</a></li>
+    <li><a href="subsitios/agenda/nueva_actividad.php">New Activity</a></li>
   </ul>
 </nav>  
     
